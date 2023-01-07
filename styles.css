@@ -1,0 +1,99 @@
+body{
+    /* background-image: radial-gradient( circle farthest-corner at -3.3% 48%,  rgba(141,146,239,1) 0%, rgba(99,229,254,1) 90% ); */
+    background-color: #112D4E;
+    font-family: 'Dosis', sans-serif;
+}
+
+.topcontainer{
+    background-color:#F9F7F7;
+    border-radius: 0 0 15px 15px;
+    padding: 2%;
+    padding-top: 2.5%;
+}
+
+.toolscontainer{
+    border-radius: 15px;
+    margin-top: 5%;
+    padding: 0;
+    
+}
+
+.toptoolbar{
+    background-color: #DBE2EF;
+    border-radius: 15px 15px 0 0;
+    padding: 0.5%;
+}
+
+.bottomtoolbar{
+    background-color:#F9F7F7;
+    border-radius: 0 0 15px 15px;
+    padding:1%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.toolbuttons{
+    border: 0px;
+    background-color: #F9F7F7;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.toolbuttons:hover{
+    background-color: #dbe2efc4;
+}
+
+
+.toolbox{
+    padding: 0;
+    padding-right: 10px;
+    border: none;
+    border-right: solid rgba(0, 0, 0, 0.415);
+    border-width: 0 0.5px;
+
+}
+.active{
+    background-color: #dbe2ef;
+}
+/* #downloadbutton:hover{
+    background-color: #DBE2EF;
+    color: black;
+} */
+
+
+.txtcontainer{
+    background-color:white;
+    border-radius: 15px;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    padding: 2%;
+    min-height: 700px;
+    width: inherit;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+#filename{
+    margin-left: 15px;
+    font-weight: 650;
+    font-size:larger;
+    background-color: rgba(220, 220, 220, 0.468);
+    width: 250px;
+    border: 0px;
+    border-radius: 15px;
+    padding: 5% 6%;
+}
+
+/* #editing-icon{
+    width: 15px;
+    height:15px;
+    opacity: 75%;
+    margin-left: 17px;
+    margin-top: 5px;
+} */
+
+
